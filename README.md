@@ -21,4 +21,13 @@ Graph Contrastive Neural Network Paper list
 
 **Graph Contrastive Learning Automated**,Yuning You,Tianlong Chen,Yang Shen,Zhangyang Wang,ICML2021,[paper](https://arxiv.org/abs/2106.07594)
 
-**Self-supervised Graph-level Representation Learning with Local and Global Structure**,[paper](https://arxiv.org/pdf/2106.04113)
+**Self-supervised Graph-level Representation Learning with Local and Global Structure**,ICML2021[paper](https://arxiv.org/pdf/2106.04113)
+
+**Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks** IJCAI2021,[paper](https://www.ijcai.org/proceedings/2021/0371.pdf)
+
+**Graph Debiased Contrastive Learning with Joint Representation Clustering**,IJCAI2021[paper](https://www.ijcai.org/proceedings/2021/0473.pdf)
+
+**Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning**,IJCAI2021[paper](https://www.ijcai.org/proceedings/2021/0204.pdf)
+
+**CuCo: Graph Representation with Curriculum Contrastive Learning**,IJCAI2021[paper](https://www.ijcai.org/proceedings/2021/0317.pdf)
+

@@ -1,6 +1,28 @@
-# Awesome-Graph-Contrastive-Paper-list
-Graph Contrastive Neural Network Paper list
+# Graph Neural Network and Computational Biology Paper list
+![1](https://img.shields.io/badge/license-MIT-blue.svg) ![2](https://img.shields.io/badge/Student-1-green.svg)
+### Interested in graph neural networks and computational biology, I collected papers from the top meeting.
 
+## Notice: The project library is being reconstructed and summarized.
+### ICLR 2022
+**Neural Structured Prediction for Inductive Node Classification** ,Meng Qu, Huiyu Cai, Jian Tang, [paper](https://openreview.net/forum?id=YWNAX0caEjI)
+
+(Contrastive)**Contrastive Label Disambiguation for Partial Label Learning** ,Haobo Wang, Ruixuan Xiao, Sharon Li, Lei Feng, Gang Niu, Gang Chen, Junbo Zhao, [paper](https://openreview.net/forum?id=EhYjZy6e1gJ)
+
+**Frame Averaging for Invariant and Equivariant Network Design**, Omri Puny, Matan Atzmon, Edward J. Smith, Ishan Misra, Aditya Grover, Heli Ben-Hamu, Yaron Lipman, [paper](https://openreview.net/forum?id=zIUyj55nXR)
+
+(CLIP)**Poisoning and Backdooring Contrastive Learning**, Nicholas Carlini, Andreas Terzis, [paper](https://openreview.net/forum?id=iC4UHbQ01Mp)
+
+**A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**, Asiri Wijesinghe, Qing Wang, [paper](https://openreview.net/forum?id=uxgg9o7bI_3)
+
+**Expressiveness and Approximation Properties of Graph Neural Networks**, Floris Geerts, Juan L Reutter, [paper](https://openreview.net/forum?id=wIzUeM3TAU)
+
+**Understanding over-squashing and bottlenecks on graphs via curvature**, Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein, [paper](https://openreview.net/forum?id=7UmjRGzp-A)
+
+(Bio)**Data-Efficient Graph Grammar Learning for Molecular Generation**, Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik, [paper](https://openreview.net/forum?id=l4IHywGq6a)
+
+(Bio)**GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation**, Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang, [paper](https://openreview.net/forum?id=PzcvxEMzvQC)
+
+## Contrastive Learning
 **Multi-view Contrastive Graph Clustering** ,ErLin Pan, Zhao Kang,NeurIPS2021,[paper](https://proceedings.neurips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf)
 
 **Contrastive Laplacian Eigenmaps**,Hao Zhu, Ke Sun, Peter Koniusz,NeurIPS2021 [paper](https://proceedings.neurips.cc/paper/2021/file/2d1b2a5ff364606ff041650887723470-Paper.pdf)

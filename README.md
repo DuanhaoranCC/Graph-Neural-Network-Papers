@@ -1,8 +1,8 @@
 # Graph Neural Network and Computational Biology Paper list
 ![1](https://img.shields.io/badge/license-MIT-blue.svg) ![2](https://img.shields.io/badge/Student-1-green.svg)
-### Interested in graph neural networks and computational biology, I collected papers from the top meeting.
+### :sparkles: Interested in graph neural networks and computational biology, I collected papers from the top conference.
 
-## Notice: The project library is being reconstructed and summarized.
+## Notice: The repository library is being reconstructed :construction: and summarized.
 ### ICLR 2022
 **Neural Structured Prediction for Inductive Node Classification** ,Meng Qu, Huiyu Cai, Jian Tang, [paper](https://openreview.net/forum?id=YWNAX0caEjI)
 
@@ -21,6 +21,34 @@
 (Bio)**Data-Efficient Graph Grammar Learning for Molecular Generation**, Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik, [paper](https://openreview.net/forum?id=l4IHywGq6a)
 
 (Bio)**GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation**, Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang, [paper](https://openreview.net/forum?id=PzcvxEMzvQC)
+
+(Bio)**Spanning Tree-based Graph Generation for Molecules**, Sungsoo Ahn, Binghong Chen, Tianzhe Wang, Le Song, [paper](https://openreview.net/forum?id=w60btE_8T2m)
+
+**Equivariant Subgraph Aggregation Networks**, Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron, [paper](https://openreview.net/forum?id=dFbKQaRk15w)
+
+(Bio)**Geometric and Physical Quantities improve E(3) Equivariant Message Passing**, Johannes Brandstetter, Rob Hesselink, Elise van der Pol, Erik J Bekkers, Max Welling, [paper](https://openreview.net/forum?id=_xwr8gOBeV1)
+
+(Contrastive)**Scarf: Self-Supervised Contrastive Learning using Random Feature Corruption**, Dara Bahri, Heinrich Jiang, Yi Tay, Donald Metzler, [paper](https://openreview.net/forum?id=CuV_qYkmKb3)
+
+**Self-supervised Learning is More Robust to Dataset Imbalance**, Hong Liu, Jeff Z. HaoChen, Adrien Gaidon, Tengyu Ma,[paper](https://openreview.net/forum?id=4AZz9osqrar)
+
+(Bio)**Equivariant Transformers for Neural Network based Molecular Potentials**, Philipp Thölke, Gianni De Fabritiis, [paper](https://openreview.net/forum?id=zNHzqZ9wrRB)
+
+(Bio)**Unifying Likelihood-free Inference with Black-box Optimization and Beyond**, Dinghuai Zhang, Jie Fu, Yoshua Bengio, Aaron Courville, [paper](https://openreview.net/forum?id=1HxTO6CTkz)
+
+(ODE)**Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks**, Marten Lienen, Stephan Günnemann, [paper](https://openreview.net/forum?id=HFmAukZ-k-2)
+
+(Bio)**Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design**, Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi S. Jaakkola, [paper](https://openreview.net/forum?id=LI2bhrE_2A)
+
+
+
+
+
+
+
+
+
+
 
 ## Contrastive Learning
 **Multi-view Contrastive Graph Clustering** ,ErLin Pan, Zhao Kang,NeurIPS2021,[paper](https://proceedings.neurips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf)

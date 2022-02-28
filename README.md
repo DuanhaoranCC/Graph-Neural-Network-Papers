@@ -40,10 +40,27 @@
 
 (Bio)**Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design**, Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi S. Jaakkola, [paper](https://openreview.net/forum?id=LI2bhrE_2A)
 
+(Bio)**Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design**, Wenhao Gao, Rocío Mercado, Connor W. Coley, [paper](https://openreview.net/forum?id=FRxhHdnxt1)
 
+**Convergent Boosted Smoothing for Modeling GraphData with Tabular Node Features**, Jiuhai Chen, Jonas Mueller, Vassilis N. Ioannidis, Soji Adeshina, Yangkun Wang, Tom Goldstein, David Wipf, [paper](https://openreview.net/forum?id=nHpzE7DqAnG)
 
+(Bio)**Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**, Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause, [paper](https://openreview.net/forum?id=GQjaI9mLet)
 
+**Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions**, Leslie O'Bray, Max Horn, Bastian Rieck, Karsten Borgwardt, [paper](https://openreview.net/forum?id=tBtoZYKd9n)
 
+**Ab-Initio Potential Energy Surfaces by Pairing GNNs with Neural Wave Functions**, Nicholas Gao, Stephan Günnemann, [paper](https://openreview.net/forum?id=apv504XsysP)
+
+**Do We Need Anisotropic Graph Neural Networks?**, Shyam A. Tailor, Felix Opolka, Pietro Lio, Nicholas Donald Lane, [paper](https://openreview.net/forum?id=hl9ePdHO4_s)
+
+(EEG)**Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis**, Siyi Tang, Jared Dunnmon, Khaled Kamal Saab, Xuan Zhang, Qianying Huang, Florian Dubost, Daniel Rubin, Christopher Lee-Messer, [paper](https://openreview.net/forum?id=k9bx1EfHI_-)
+
+(Contrastive)**Incremental False Negative Detection for Contrastive Learning**, Tsai-Shien Chen, Wei-Chih Hung, Hung-Yu Tseng, Shao-Yi Chien, Ming-Hsuan Yang, [paper](https://openreview.net/forum?id=dDjSKKA5TP1)
+
+**Handling Distribution Shifts on Graphs: An Invariance Perspective**, Qitian Wu, Hengrui Zhang, Junchi Yan, David Wipf, [paper](https://openreview.net/forum?id=FQOC5u-1egI)
+
+(Bio)**Energy-Inspired Molecular Conformation Optimization**, Jiaqi Guan, Wesley Wei Qian, qiang liu, Wei-Ying Ma, Jianzhu Ma, Jian Peng, [paper](https://openreview.net/forum?id=7QfLW-XZTl)
+
+**EQUIVARIANT GRAPH MECHANICS NETWORKS WITH CONSTRAINTS**, Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang, [paper](https://openreview.net/forum?id=SHbhHHfePhP)
 
 
 

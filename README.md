@@ -60,7 +60,7 @@
 
 (Bio)**Energy-Inspired Molecular Conformation Optimization**, Jiaqi Guan, Wesley Wei Qian, qiang liu, Wei-Ying Ma, Jianzhu Ma, Jian Peng, [paper](https://openreview.net/forum?id=7QfLW-XZTl)
 
-**EQUIVARIANT GRAPH MECHANICS NETWORKS WITH CONSTRAINTS**, Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang, [paper](https://openreview.net/forum?id=SHbhHHfePhP)
+**Equivariant Graph Mechanics Network With Constraints**, Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang, [paper](https://openreview.net/forum?id=SHbhHHfePhP)
 
 
 
